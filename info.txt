@@ -16,3 +16,5 @@ Pending pages --> 1.Product Description
                   4.IPO
                   5.Stocks
                   6.US_stocks
+
+Warning --> Dont change class,id names keep as it is.
