@@ -1,14 +1,17 @@
 Vallabh --> 1.Home
             2.Success         //Due - 23
 
-Tanmay  --> 1.Payment
-            2.Products        //Due - 23
+Tanmay  -->  1.search_box.css
+             2.navbar.css
+
+             1.Payment
+             2.Products        //Due - 23
 
 Shubham --> 1.Signup          //Due - 23
 
 Vedant  --> 1.login           //Due - 23
 
-Sushma  --> 1.Cart            //Due - 30
+Sushma  --> 1.Cart            //Due - 30 
             
 Pending pages --> 1.Product Description
                   2.FD
