@@ -1,13 +1,71 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=, initial-scale=1.0">
-    <title>Document</title>
+    <title>My cart </title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="icon" href="https://groww.in/logo-groww270.png" type="image/x-icon">
+    <link rel="stylesheet" href="./styles/navbar.css">
     <link rel="stylesheet" href="./styles/cart.css">
+    <link rel="stylesheet" href="./stylesa/search_box.css">
 </head>
+
 <body>
-    <h1>hi</h1>
+    <nav class="max-w">
+        <div class="nav-div">
+            <div>
+
+                <a href="home.html"><img class="" src="https://bit.ly/3nMw3oc" width="148" height="40" alt="Groww Logo"
+                        itemprop="logo"></a>
+            </div>
+            <div class="c-search">
+                <i class="material-icons">search</i><input type="search" id="search"
+                    placeholder="what are you looking for today?" />
+
+
+            </div>
+            <div id="thirdbox">
+                <a href="signup.html"> <button id="login-btn">login/registor</button></a></li>
+                <div id="userAcc" class="dontDisplay">
+                    <img id="user" src="https://www.shareicon.net/data/2016/05/26/771188_man_512x512.png">
+                    <a href="cart.html"><i class="material-icons">shopping_cart</i></a></li>
+                </div>
+            </div>
+
+        </div>
+
+    </nav>
+    <div id="logoutDropDown" class="noDropDownDisplay">
+        <div class="logout">log out</div>
+    </div>
+    <div id="dropDown" class="noDropDownDisplay"></div>
+
+    <div id="container">
+        <div id="left_view_cart"></div>
+
+        <div class="right_view_cart">
+            <h3 id="total_amount_headline">amount payable now</h3>
+        <h1 id="total_amount"></h1>
+        <img src="//assets-netstorage.groww.in/web-assets/billion_groww_desktop/prod/build/client/images/secure-cart-page.382d7372.svg">
+        <p class="safe">100% safe and secure</p>
+        <p>By Contnuing, you are agree to <a href="#"> terms & conditions </a></p>
+        <button id="pay">PROCEED TO PAY</button>
+        </div>
+    </div>
+
+    <div id="footer">
+
+        <!-- Add footer contents here -->
+        <!-- <div>file</div> -->
+
+
+    </div>
+
 </body>
+
+
+
 </html>
