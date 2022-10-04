@@ -1,20 +1,33 @@
 Vallabh --> 1.Home                -->Completed
             2.Success             -->Completed        //Due - 23
-            3.JS(Learn)
+            3.Help                -->
+            4.About               -->
+            5.FD
+            6.Future and Options
+            7.IPO
+            8.Stocks
+            9.Us.stocks
+            5.JS(Learn)                               //Due - 9/10/22
+
             
 Tanmay  -->  1.search_box.css     -->Completed
              2.navbar.css         -->Completed
 
              1.Payment            -->Completed
              2.Products           -->Completed        //Due - 23
-             3.JS(Learn)
+             3.JS(Learn)                              //Due - 9/10/22
 
-Shubham --> 1.Signup              -->Completed       //Due - 23
+Shubham --> 1.Signup              -->Completed        //Due - 23
+            2.Product_description                     //Due - 9/10/22
+            3.JS(earn)                                //Due - 9/10/22
 
-Vedant  --> 1.login                                   //Due - 23
+Vedant  --> 1.login               -->Completed        //Due - 23
+            2.Logo                                    //Due - 9/10/22
+            3.JS(Learn)                               //Due - 9/10/22
 
-Sushma  --> 1.Cart                                    //Due - 30 
-            
+Sushma  --> 1.Cart                -->Completed        //Due - 30 
+            2.JS(Learn)                               //Due - 9/10/22
+
 Pending pages --> 1.Product Description
                   2.FD
                   3.Future and Options

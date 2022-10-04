@@ -1,0 +1,14 @@
+.help{
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+    position: relative;
+}
+
+.chatbot{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+
+}
