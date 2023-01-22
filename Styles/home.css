@@ -1099,3 +1099,14 @@ li {
   font-size: 14px;
 }
 
+/* After added styles */
+
+.me{
+  
+  all: unset;
+  color: white;
+}
+
+.me:hover{
+  color: #0acf83;
+}
