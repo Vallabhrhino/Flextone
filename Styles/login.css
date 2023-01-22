@@ -55,12 +55,12 @@ background: rgb(241,239,239)
     border-radius: var(--border-radius);
     border: 1px solid #dddddd;
     outline: none;
-    background: #9b87fe;
+    background: white;
     transition: background 0.2s border-color 0.2s;
 }
 .form__input:focus{
     border-color: var(--color-primary);
-    background: #9b87fe;
+    background: white;
 }
 .form__input--error{
     color: var(--color-error);
@@ -81,7 +81,7 @@ background: rgb(241,239,239)
     outline: none;
     cursor: pointer;
     background: var(--color-primary);
-    color:#9b87fe;
+    color:white;
 }
 .form__button:hover{
     background: var(--color-primary-dark);
