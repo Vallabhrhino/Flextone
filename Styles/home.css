@@ -67,7 +67,8 @@ nav div i {
   font-weight: 550;
   border: none;
   border-radius: 4px;
-  background-color: #00d09c;
+  background: rgb(138,73,195);
+  background: linear-gradient(97deg, rgba(138,73,195,1) 0%, rgba(15,191,227,1) 34%, rgba(54,65,98,1) 97%);
   color: #fff;
   cursor: pointer;
 }
@@ -139,7 +140,8 @@ nav div i {
 }
 
 .slide3 {
-  color: #0acf83;
+  color: rgb(138,73,195);
+  /* color: linear-gradient(97deg, rgba(138,73,195,1) 0%, rgba(15,191,227,1) 34%, rgba(54,65,98,1) 97%); */
 }
 
 .slide4 {
@@ -147,7 +149,8 @@ nav div i {
 }
 
 .slide5 {
-  color: #0acf83;
+  color: rgba(15,191,227,1) ;
+/* background: linear-gradient(97deg, rgba(138,73,195,1) 0%, rgba(15,191,227,1) 34%, rgba(54,65,98,1) 97%); */
 }
 
 .slide6 {
@@ -197,7 +200,8 @@ nav div i {
   letter-spacing: 0.3px;
   border-radius: 4px;
   border: none;
-  background-color: #00d09c;
+  background: rgb(138,73,195);
+  background: linear-gradient(97deg, rgba(138,73,195,1) 0%, rgba(15,191,227,1) 34%, rgba(54,65,98,1) 97%);
   color: #fff;
   cursor: pointer;
   padding: 18px 52px;
@@ -278,7 +282,8 @@ nav div i {
 }
 
 .color-hover:hover {
-  border-bottom: 3px solid #00d09c;
+  border-bottom: 3px solid; 
+  
 }
 
 .tab-text1 {
@@ -320,7 +325,8 @@ nav div i {
 .create-btn {
   width: 205px;
   height: 45px;
-  background: #00d09c;
+  background: rgb(138,73,195);
+  background: linear-gradient(97deg, rgba(138,73,195,1) 0%, rgba(15,191,227,1) 34%, rgba(54,65,98,1) 97%);
   color: #fff;
   font-weight: 500;
   border-radius: 4px;
@@ -457,7 +463,7 @@ a {
 }
 
 .view-more span {
-  color: #00d09c !important;
+  color: rgba(15,191,227,1) !important;
 }
 
 .view-more span:nth-child(1):hover {
@@ -1093,3 +1099,14 @@ li {
   font-size: 14px;
 }
 
+/* After added styles */
+
+.me{
+  
+  all: unset;
+  color: white;
+}
+
+.me:hover{
+  color: #0acf83;
+}
